@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 100;
+    src: url('../font/fonts/Lato-ThinItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+    src: url('../font/fonts/Lato-Thin.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../font/fonts/Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../font/fonts/Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 300;
+    src: url('../font/fonts/Lato-LightItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../font/fonts/Lato-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../font/fonts/Lato-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../font/fonts/Lato-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 900;
+    src: url('../font/fonts/Lato-BlackItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../font/fonts/Lato-Black.ttf');
+}
+
+.font-lato {
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../font/fonts/times_new_roman/Tinos-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../font/fonts/times_new_roman/Tinos-Italic.ttf');
+}
+
+
+@font-face {
+    font-family: 'Tinos';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../font/fonts/times_new_roman/Tinos-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../font/fonts/times_new_roman/Tinos-Bold.ttf');
+}
+
+
+.font-times {
+    font-family: 'Tinos', sans-serif;
+}

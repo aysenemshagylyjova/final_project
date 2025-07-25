@@ -1,0 +1,62 @@
+.bg-image_1 {
+    background-image: url("../img/artistic-blurry-colorful-wallpaper-background_58702-8673.avif");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(37, 46, 58, 0.3);
+}
+
+.bg-image_2 {
+    background-image: url("../img/03.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-color{
+    background-color: #121F28;
+}
+
+.typing {
+    display: inline-block;
+    font-family: monospace;
+    border-right: 2px solid #787777;
+    width: 0ch;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 7s steps(18) forwards, 
+               blink 0.6s infinite step-end;
+}
+
+@keyframes typing {
+    to { width: 18ch; }
+}
+
+@keyframes blink {
+    50% { border-color: transparent; }
+}
+
+
+.absolute_1{
+    position: absolute;
+    top: 981px;
+}
+
+.absolute_2{
+    position: absolute;
+    top: 939px;
+    left: 330px;
+}
+
+.absolute_3{
+    position: absolute;
+    top: 955px;
+    right: 0px;
+}
