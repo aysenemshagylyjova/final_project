@@ -31,7 +31,7 @@
     width: 0ch;
     white-space: nowrap;
     overflow: hidden;
-    animation: typing 7s steps(18) forwards, 
+    animation: typing 5s steps(18) forwards, 
                blink 0.6s infinite step-end;
 }
 
